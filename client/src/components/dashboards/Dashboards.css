@@ -1,0 +1,79 @@
+.container {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  min-width: 100%;
+}
+
+.charts-container {
+  flex: 6;
+  background-color: rgb(255, 255, 255);
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.row-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.chart {
+  flex: 3;
+  padding: 20px;
+  margin: 20px;
+  -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+  height: 600px;
+  width: 600px;
+}
+
+.big-chart {
+  flex: 3;
+  padding: 20px;
+  margin: 20px;
+  -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+  height: 650px;
+  width: 600px;
+}
+
+.small-chart {
+  flex: 3;
+  padding: 20px;
+  margin: 20px;
+  -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+  height: 450px;
+}
+
+.small-chart-univ {
+  flex: 3;
+  padding: 20px;
+  margin: 20px;
+  -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+  height: 350px;
+}
+
+.chartTitle {
+  margin: 0.5rem;
+}
+
+.chartText {
+  font-size: 20px;
+  margin: 0.5rem;
+}
+
+.gaugeText {
+  align-items: center;
+  justify-content: space-between;
+  text-align: center;
+  display: flex;
+}
+
+.units-selection {
+  display: flex;
+  justify-content: space-around;
+}

@@ -1,0 +1,123 @@
+.middle-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.column-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.element {
+  color: black;
+  font-size: larger;
+  width: 100%;
+  max-width: 100%;
+  height: 100%;
+  max-height: 100%;
+  display: block;
+  margin: 20px;
+}
+
+h2 {
+  margin: 2rem;
+  text-align: center;
+}
+
+.link {
+  margin-top: 1rem;
+}
+
+.item-area {
+  justify-content: center;
+  display: flex;
+  margin: 1.5rem;
+  border-color: black;
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 15px 50px;
+  background-color: lightgray;
+  height: 500px;
+  width: 350px;
+}
+
+.item-area-2 {
+  display: flex;
+  border-color: black;
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 15px;
+  background-color: rgb(224, 220, 213);
+  width: 1000px;
+  margin-bottom: 2rem;
+}
+
+.items-wrapper {
+  text-align: center;
+  align-items: top;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+}
+
+p {
+  color: black;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  margin: 0.25rem;
+  margin-bottom: 1rem;
+  font-size: medium;
+}
+
+table {
+  border-collapse: collapse;
+}
+td, th /* Mettre une bordure sur les td ET les th */ {
+  border: 1px solid black;
+  padding: 1rem;
+}
+
+.table-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2rem;
+  flex-direction: column;
+}
+
+p.scan-text {
+  color: rgb(228, 114, 22);
+  font-family: "Times New Roman", Times, serif;
+  font-size: large;
+}
+
+.warning {
+  color: red;
+  margin: 0.5rem;
+}
+
+.select-competences {
+    display: flex;
+    flex-direction: column;
+    margin: 1.5rem;
+    border-color: rgb(189, 181, 181);
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 15px 50px;
+    background-color: rgb(201, 187, 173);
+    height: 500px;
+    width: 550px;
+    padding: 2rem;
+}
+
+.competence {
+  padding: 1rem;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.units-selection {
+  display: flex;
+  justify-content: space-around;
+}
