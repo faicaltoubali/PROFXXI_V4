@@ -1,0 +1,121 @@
+[
+  {
+    "id": "1",
+    "name": "basic",
+    "type": "basic",
+    "description": "This questionnaire is used to evaluate the level of 21st century competencies of an institution or center that promotes educational innovation and the use of educational technologies. This questionnaire can be answered by any person of the institution in charge of a center or pedagogical innovation or participant in its activities. You can find more information about the competency framework at the following link https://docs.google.com/forms/d/1EHfSIq8FQgJ7zG84wKWQ0OilXXgSbFGWzqY8OcrpJms/edit?usp=sharing",
+    "dimensionA": {
+      "A1": "Identify innovative good practices with high impact considering the institutional educational project and local, national and international trends and good practices.",
+      "A2": "Design a model and/or actions for teacher training and counselling based on good practices and the characteristics of the disciplines.",
+      "A3": "Initially implement actions designed considering different scenarios and contexts.",
+      "A4": "Set up benchmarking and innovative experiences.",
+      "A5": "Promote innovation processes among teachers that have an impact on learning.",
+      "A6": "Encourage the coverage of teachers who implement innovations.",
+      "A7": "Disseminate innovative internal models and experiences of excellence for teaching practices.",
+      "A8": "Generate changes in teaching practices and their effects on the student experience.",
+      "A9": "To visualise new horizons on teaching practice, capable of fostering transformative pedagogical practices.",
+      "A10": "Ensure tools to monitor and report on the quality of innovative teaching practices.",
+      "A11": "Support institutional decision-making based on challenges and good practices."
+    },
+    "dimensionB": {
+      "B1": "Diagnose student characteristics and needs in order to enhance teaching and learning processes.",
+      "B2": "Develop actions to support students considering the diagnosis, the educational project and the characteristics of the disciplines.",
+      "B3": "Implement actions or initiatives, considering emerging situations, and adjustments for continuous improvement.",
+      "B4": "Promote meaningful practices and tools for learning among students in the various disciplines.",
+      "B5": "Foster the articulation of teaching innovation with the effective learning experience of students.",
+      "B6": "Contribute to increasing the quality of learning.",
+      "B7": "To bring about positive effects on the student experience.",
+      "B8": "Visualise new challenges and scenarios in student learning as lifelong practice.",
+      "B9": "Ensure the overall increase of student learning outcomes.",
+      "B10": "Implement evaluation surveys on the university and student learning experience.",
+      "B11": "Support institutional decision-making based on the student experience."
+    },
+    "dimensionC": {
+      "C1": "Identify stakeholders, taking into account characteristics, socio-cultural scenarios, leadership and cultural particularities within the institution.",
+      "C2": "Analyse previous experiences within the institution, linked to organisational cultural changes, identifying strengths, weaknesses and challenges.",
+      "C3": "Conceive a plan for the TLC adapted to the University's strategy, taking into account international reference models and good practices.",
+      "C4": "Promote groups of innovative teachers and support their transformational dynamics.",
+      "C5": "Generate collaboration and work networks among the various members of the university community.",
+      "C6": "Actively participate in the generation of an institutional culture of sustainable transformation and quality.",
+      "C7": "Position the unit as relevant within the educational process.",
+      "C8": "Define metrics and indicators to evaluate the impact of pedagogical innovation.",
+      "C9": "Contribute to the process of transforming the University into a learning and innovative organisation.",
+      "C10": "Evaluate the transformative impact of innovative teaching practices.",
+      "C11": "Generate spaces for dialogue and meetings that foster co-responsibility for results, effects and impacts among the different actors in the educational community."
+    },
+    "dimensionD": {
+      "D1": "Systematise prior learning in digital education and TEL, implemented within the institution.",
+      "D2": "Design a pedagogical model for quality digital education and TEL.",
+      "D3": "Implement digital education and TEL actions, in an initial way, considering the contexts and available resources.",
+      "D4": "To train the various actors of the university community for the development of innovative practices with the use of digital technology.",
+      "D5": "To observe new TEL trends at international level.",
+      "D6": "Encourage the increased implementation of TEL in everyday learning.",
+      "D7": "Model TEL best practices among the educational community.",
+      "D8": "Sustainable involvement of the teaching staff in TEL pedagogical practices.",
+      "D9": "Implement public reports that account for the effects of TEL on educational practice."
+    },
+    "dimensionE": {
+      "E1": "Identify available evidence and good practice in relation to teaching and learning at higher education level and disseminate these findings within the education community.",
+      "E2": "Collect initial results and effects on the actions taken, considering feedback from stakeholders and external non-participating peers.",
+      "E3": "Use available evidence on teaching and learning.",
+      "E4": "Promote peer exchange related to innovative practices in teaching and learning.",
+      "E5": "Generate evidence on results, outcomes and impacts.",
+      "E6": "Share the evidence collected among the different levels and actors of the organisation.",
+      "E7": "Systematise the new challenges arising from the work, the available evidence and the good practices in actions for the institutional strategy.",
+      "E8": "Communicate scientifically in different formats and external academic communities, the processes implemented within the unit."
+    },
+    "answers": {
+      "1": "My institution/center does not have this competency.",
+      "2": "My institution/center is poorly prepared for this competition.",
+      "3": "My institution/center is moderately prepared for this competition.",
+      "4": "My institution/center is prepared in this competition."
+    }
+  },
+  {
+    "id": "2",
+    "name": "student",
+    "type": "student",
+    "description": "This questionnaire is for students, it is used to evaluate the level of 21st century competencies of an institution or center that promotes educational innovation and the use of educational technologies. This questionnaire can be answered by any person of the institution in charge of a center or pedagogical innovation or participant in its activities. You can find more information about the competency framework at the following link https://docs.google.com/forms/d/1EHfSIq8FQgJ7zG84wKWQ0OilXXgSbFGWzqY8OcrpJms/edit?usp=sharing",
+    "dimensionA": {
+      "A1": "To what extent do you think your teachers put into practice the last trends in teaching and learning or adopt best practices in this area.",
+      "A2": "To what extent do you think your teachers use innovative best practices on a daily basis.",
+      "A3": "To what extent do you think your teachers share with you feedback from previous innovative practices.",
+      "A4": "To what extent do you think your teachers are informed about the latest innovative teaching practices.",
+      "A5": "To what extent do you think your teachers use monitoring tools to improve their teaching practices."
+    },
+    "dimensionB": {
+      "B1": "To what extent do you think your institution considers students’ needs and personal characteristics to continuously adjust teaching and learning practices.",
+      "B2": "To what extent do you think your institution promotes the use of tools for supporting student learning experiences and make them more effective.",
+      "B3": "To what extent do you think your institution makes an effort to improve the quality of learning and students’ learning experience.",
+      "B4": "To what extent do you think your institution ensures the overall increase of students’ learning outcomes.",
+      "B5": "To what extent do you think your institution uses data collected from the student surveys for supporting institutional decision making."
+    },
+    "dimensionC": {
+      "C1": "To what extent do you think your institution makes an effort to improve organizational culture to transform teaching and learning practices.",
+      "C2": "To what extent do you think your institution generates collaboration among the various members of the university community to support innovation.",
+      "C3": "To what extent do you think your institution generates an institutional culture of sustainable transformation and quality.",
+      "C4": "To what extent do you think your institution uses metrics and indicators to evaluate the impact of its innovation practices.",
+      "C5": "To what extent do you think your institution makes space for dialog among different players to foster innovative transformation."
+    },
+    "dimensionD": {
+      "D1": "To what extent do you think your institution promotes the use of technologies to support teaching and learning practices.",
+      "D2": "To what extent do you think your institution offers training for the use of digital technology for teaching and learning.",
+      "D3": "To what extent do you think your institution promotes the use of digital technologies in daily practices.",
+      "D4": "To what extent do you think your teachers make use of technologies in teaching and learning practices.",
+      "D5": "To what extent do you think your institution shares with the community the effect of use of technologies in teaching and learning practices."
+    },
+    "dimensionE": {
+      "E1": "To what extent do you think your institution collects data about teaching and learning experiences.",
+      "E2": "To what extent do you think your institution uses the collected data about teaching and leaning experiences for reporting the evidences of teaching and learning practices.",
+      "E3": "To what extent do you think your institution shares with the educational community the evidences extracted from the collected data about teaching and learning experiences.",
+      "E4": "To what extent do you think your institution uses this evidence for informing on how to improve teaching and learning practices.",
+      "E5": "To what extent do you think your institution communicates scientifically evidences from collected data."
+    },
+    "answers": {
+      "1": "My institution/center does not have this competency.",
+      "2": "My institution/center is poorly prepared for this competition.",
+      "3": "My institution/center is moderately prepared for this competition.",
+      "4": "My institution/center is prepared in this competition."
+    }
+  }
+]
